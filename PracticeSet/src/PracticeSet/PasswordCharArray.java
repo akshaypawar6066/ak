@@ -5,7 +5,7 @@ public class PasswordCharArray
 	public static void main(String[] args) {
 		String s1="bhagwat";
 		
-		
+		System.out.println("Hello");
 
 		char[] s2= new char[]{'B','h','a','g','w','t'};
 		System.out.println("String password: " + s1);
